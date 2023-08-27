@@ -2,6 +2,12 @@
 
 My GSoC final archive
 
+## Brief task description
+
+1. Deeply optimize the current controller module from a performance perspective
+2. Based on the improved DLedger, maximum representation at the controller module
+3. Compared with the old version, new controller must have clearer features and stronger performance
+
 ## What I have done
 
 > refactor unqiue identity between controller and broker
@@ -28,6 +34,12 @@ My GSoC final archive
 
 [issue](https://github.com/apache/rocketmq/issues/7164)  
 [pull reuqest](https://github.com/apache/rocketmq/pull/7165)
+
+## Future tasks
+
+1. finish all active pull request merging
+2. keep optimizing controller's performance by enhanced DLedger
+3. make sure new controller can be put into production usasge
 
 # DLedger Controller Performance Optimization
 
